@@ -1,0 +1,8 @@
+name: FusRoDah
+main: truelecter.fusrodah.Base
+authors: [_TrueLecter_]
+version: 0.1
+commands:
+   frdc:
+   frdp:
+   frda:
